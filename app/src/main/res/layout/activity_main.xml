@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    tools:context="am.burhan.iakfinprotest.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/scroll_soal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/submit_btn">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent">
+
+            <include layout="@layout/soal_body" />
+        </ScrollView>
+    </LinearLayout>
+
+    <Button
+        android:id="@id/submit_btn"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:text="@string/button"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>

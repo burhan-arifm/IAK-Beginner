@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\10 Game\.android\build-cache\831392f93d00d9fdc5f84115d081841e74594b68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\classes_75c988f7803395dc3b556f9ed12133c0bc1d994c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Installed\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3d42cb0adb6c4b5ee9ddd9350b795d73cc1a5413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10 Game\.android\build-cache\39debf05d77b5f9f6e756f4091b6c2834aef1961\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\classes_6b2c27054c02a5efe26d6a6bbde6016ef76d95c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10 Game\.android\build-cache\1f7b89062e098f26896abf3b1bb7c4c8a205f0e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\classes_7451b26803434d40e2e47ac0bec0971e73020670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10 Game\.android\build-cache\a9aebef54530cd430c798683af234cba9fc290f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\classes_ac95f0cafa0b617a4e8fbcbfecc20bbc6afa5b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10 Game\.android\build-cache\1c313d1bd5ff78b4e4d1e33dffd137d05cdc9396\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\classes_8bb133f64d5e22481cf03db875487fbe152d634b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10 Game\.android\build-cache\a743c1b671d975b8cb8a91784625c0d8ce3e5f05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\classes_e214cc479b9dcb5ae52fe258f9ad4861a7503532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Installed\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_3a3c15c9bcee04cb71f97a11bde42ad2671c32c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\IAK\IAKFinproTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_10dbfd1df092a1ce8f9e5c8fa308c9b38b488e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10 Game\.android\build-cache\f3787039d4e04acda5c086c939394036be3e25ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\classes_fa48021d79b82b3b13696d63de8d33627f4a36e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\IAK\IAKFinproTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f36a4f7dc583f8c192c735aad4219c598d77856">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_07b40f93f21bb0eb68b69d0e80dcf3a77bf6987e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10 Game\.android\build-cache\e7249d1ee65e6b28814653790994775aa07fe120\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\classes_2b7cf2ecee4b6ade8aa332cdad593a6a11f58e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10 Game\.android\build-cache\989dfa800134f1487b799cba2b59d6672753eeff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\classes_80b5d22c78b4555d14e615c4caf77d81d53b074a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10 Game\.android\build-cache\6a251a3c505bafbc57bbff06c3403de3e1825524\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\IAK\IAKFinproTest\app\build\intermediates\pre-dexed\debug\classes_bd9c0f4143ae97cbc79286ae1ada317e455040e3.jar" />
+    </item>
+
+</items>

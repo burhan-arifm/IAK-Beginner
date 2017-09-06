@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tebak Tabok</string>
+    <string name="num1">Apakah kepanjangan singkatan dari "IPOLEKSOSBUDHANKAM"?</string>
+    <string name="num2">Ayam Berkokok, Harimau ___________</string>
+    <string name="num3">Bagaimana caranya agar manusia bisa mendarat di matahari?</string>
+    <string name="num4">Siapakah penyanyi yang sangat jago olahraga?</string>
+    <string name="num5">Mitos/Fakta : Tidur telentang dapat menyebabkan sakit tenggorokan.</string>
+    <string name="ans2_1">Mengaum</string>
+    <string name="ans2_2">Pagi</string>
+    <string name="ans2_3">Tau ah, gelap.</string>
+    <string name="ans3_1">Mendaratnya pas malem hari aja</string>
+    <string name="ans3_2">Mendaratnya pas hujan ih</string>
+    <string name="ans3_3">Ngapain ai kamu ke matahari?</string>
+    <string name="ans5_1">Mitos</string>
+    <string name="ans5_2">Fakta</string>
+    <string name="button">udahan ah, cape</string>
+</resources>
